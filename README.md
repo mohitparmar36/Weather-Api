@@ -1,5 +1,5 @@
 # WeatherWise
-This is a weather app project using ReactJs
+This is Weather-API project build using ReactJs
 
 🌦️ WeatherWise - Your Interactive Weather Web App 🌈
 
